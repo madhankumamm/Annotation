@@ -1,0 +1,15 @@
+image:
+  file: docker/.gitpod.dockerfile
+
+vscode:
+  extensions:
+    - eamodio.gitlens
+    - dbaeumer.vscode-eslint
+    - shd101wyy.markdown-preview-enhanced
+    - amazonwebservices.aws-toolkit-vscode
+    - streetsidesoftware.code-spell-checker
+    - esbenp.prettier-vscode
+    - oderwat.indent-rainbow
+    - sirtori.indenticator
+    - ms-python.python
+    - DavidAnson.vscode-markdownlint
